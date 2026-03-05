@@ -66,3 +66,5 @@ python -m models.gerador_senha
 
 ### Líder (integração)
 - Após todos os PRs mergeados: abrir `main.py`, importar tudo, montar o fluxo em loop, testar `python main.py`.
+
+Atualização feita por <Pedro Gabriel S. Antunes>
